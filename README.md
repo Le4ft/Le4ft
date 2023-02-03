@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=le4ft&label=Profile%20views&color=0e75b6&style=flat" alt="le4ft" /> </p>
 
-- 🔭 I’m currently working on [CertixPit](https://github.com/Le4ft/CertixPit)
+- 🔭 I’m currently working on **very swag image host**
 
-- 🌱 I’m currently learning **Java, Python and React**
+- 🌱 I’m currently learning **Nothing**
 
-- 📫 How to reach me **l4#7900**
+- 📫 How to reach me **le4ft@rape.lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
