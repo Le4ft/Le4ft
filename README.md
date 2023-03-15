@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **loady.pics - image host**
 
-- 🌱 I’m currently learning **typescript & php**
+- 🌱 I’m currently learning **typescript**
 
 - 📫 How to reach me **le4ft#0381 or le4ft@rape.lol**
 
