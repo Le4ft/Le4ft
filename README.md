@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **le4ft#0381 or le4ft@rape.lol**
 
-- ⚡ Fun fact **i have better designs than u**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/skeropls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skeropls" height="30" width="40" /></a>
